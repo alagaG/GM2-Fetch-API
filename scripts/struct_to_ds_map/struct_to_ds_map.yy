@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"struct_to_ds_map",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"struct_to_ds_map",
+  "parent":{
+    "name":"utils",
+    "path":"folders/imported/alagame_fetch_api/utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

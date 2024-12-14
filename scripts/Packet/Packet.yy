@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Packet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Packet",
+  "parent":{
+    "name":"core",
+    "path":"folders/imported/alagame_fetch_api/core.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

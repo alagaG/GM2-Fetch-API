@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fetch_js",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fetch_js",
+  "parent":{
+    "name":"utils",
+    "path":"folders/imported/alagame_fetch_api/utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

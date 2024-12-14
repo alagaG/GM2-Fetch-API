@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"WEB",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"WEB",
+  "parent":{
+    "name":"alagame_fetch_api",
+    "path":"folders/imported/alagame_fetch_api.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
