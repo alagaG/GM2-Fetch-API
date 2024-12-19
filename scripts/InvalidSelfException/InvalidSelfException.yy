@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InvalidSelfException",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InvalidSelfException",
+  "parent":{
+    "name":"alagame",
+    "path":"folders/imported/alagame.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

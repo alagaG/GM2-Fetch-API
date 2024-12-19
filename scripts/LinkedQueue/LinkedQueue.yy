@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"LinkedQueue",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"LinkedQueue",
+  "parent":{
+    "name":"alagame",
+    "path":"folders/imported/alagame.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
